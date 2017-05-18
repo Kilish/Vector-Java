@@ -5,3 +5,4 @@
 4 http://www.spring-source.ru/docs_simple.php
 5 http://web.deu.edu.tr/doc/oreily/java/javanut/
 6 https://toster.ru/q/392414
+8 http://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html
