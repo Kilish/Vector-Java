@@ -1,5 +1,5 @@
 # Vector-Java
-1  http://tutorials.jenkov.com/ 
+<p>1  http://tutorials.jenkov.com/ </p>
 2  https://examples.javacodegeeks.com/
 3  http://spec-zone.ru/RU/Java/Docs/7/api/java/util/concurrent/ThreadLocalRandom.html
 4  http://www.spring-source.ru/docs_simple.php
@@ -9,3 +9,4 @@
 9  https://toster.ru/q/336738
 10 https://tproger.ru/digest/java-learning-materials/
 11 http://java-online.ru/
+<p>12 http://www.wideskills.com/java-tutorial   - <bold>Java Tutorial</bold></p>
