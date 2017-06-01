@@ -10,3 +10,4 @@
 10 https://tproger.ru/digest/java-learning-materials/
 11 http://java-online.ru/
 <p>12 http://www.wideskills.com/java-tutorial   - <bold>Java Tutorial</bold></p>
+<p>13 https://www.tutorialspoint.com/design_pattern/service_locator_pattern.htm - <bold>Design Patterns</bold></p>
